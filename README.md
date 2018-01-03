@@ -1,6 +1,6 @@
 ### Simple Mastermind Game ###
 
-Little Python game based on Thinker.
+Little Python game based on Tkinter.
 
 You have to guess the code which is composed of four different colours taken from a total of eight colours.
 
